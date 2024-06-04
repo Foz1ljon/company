@@ -8,10 +8,10 @@ export const menu = [
 ];
 
 export const url = [
-  { img: "/public/icons/f.svg", url: "#f" },
-  { img: "/public/icons/t.svg", url: "#t" },
-  { img: "/public/icons/i.svg", url: "#i" },
-  { img: "/public/icons/l.svg", url: "#l" },
+  { img: "/icons/f.svg", url: "#f" },
+  { img: "/icons/t.svg", url: "#t" },
+  { img: "/icons/i.svg", url: "#i" },
+  { img: "/icons/l.svg", url: "#l" },
 ];
 
 export const cards = [

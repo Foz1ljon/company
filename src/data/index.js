@@ -14,6 +14,14 @@ export const url = [
   { img: "/icons/l.svg", url: "#l" },
 ];
 
+
+
+
+
+
+
+// cards >>>>>>>>>>>>>>>>>>>>>>>>
+
 export const cards = [
   {
     img: "/icons/card-custom.svg",

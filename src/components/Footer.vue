@@ -16,10 +16,10 @@ import { url } from "../data";
               presence.
             </p>
           </div>
-          <div class="flex bg-[#FCD980] p-6 gap-5 w-[517px]">
+          <div class="flex bg-orang p-6 gap-5 w-[517px]">
             <!-- Email >> -->
             <div class="flex flex-col justify-center">
-              <h2 class="text-lg font-medium text-[#282938]">Email at me</h2>
+              <h2 class="text-lg font-medium text-deepBlue">Email at me</h2>
               <p class="text-base">contact@website.com</p>
             </div>
             <!-- Email << -->
@@ -27,7 +27,7 @@ import { url } from "../data";
             <!-- Call us >> -->
 
             <div class="flex flex-col">
-              <h1 class="text-lg font-medium text-[#282938]">Call us</h1>
+              <h1 class="text-lg font-medium text-deepBlue">Call us</h1>
               <p class="text-base">0927 6277 28525</p>
             </div>
 

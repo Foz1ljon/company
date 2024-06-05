@@ -2,7 +2,7 @@ import { createMemoryHistory, createRouter } from "vue-router";
 
 const routes = [
   {
-    path: "/home",
+    path: "/",
     name: "Home",
     component: () => import("../components/Home/Home.vue"),
   },

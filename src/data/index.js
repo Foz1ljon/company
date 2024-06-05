@@ -1,7 +1,7 @@
 // Header menu >>>>>>>>>>
 
 const menu = [
-  { name: "Home", url: "/home" },
+  { name: "Home", url: "/" },
   { name: "About us", url: "/about" },
   { name: "Pricing", url: "/" },
   { name: "Work", url: "/" },

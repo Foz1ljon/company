@@ -22,6 +22,7 @@ export default {
         darkBlue: "#282938",
         orang: "#FCD980",
         deepBlue: "#282938",
+        
       },
     },
   },

@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import { menu } from "../data/index";
+import menu from "../data/index";
 const isShow = ref(false);
 
 const show = () => {
@@ -10,7 +10,7 @@ const show = () => {
 
 <template>
   <main class="bg-dblue">
-    <div class="md:container md:px-0 sm:px-6 ">
+    <div class="md:container md:px-10 sm:px-6">
       <div
         class="sm:flex md:static sm:relative sm:items-center sm:justify-between md:items-center sm:py-2 md:py-4"
       >
@@ -22,7 +22,7 @@ const show = () => {
           alt="hamburger"
         />
         <div
-          class="sm:flex sm:flex-col sm:items-center sm:absolute sm:bg-slate-950 sm:rounded-s-2xl sm:p-4 sm:-bottom-56 sm:-right-7 duration-300 md:p-0 md:bg-[#fff0] md:flex md:flex-row md:gap-6 md:items-center md:static"
+          class="sm:flex sm:flex-col sm:items-center sm:absolute sm:bg-slate-950 sm:rounded-s-2xl sm:p-4 sm:-bottom-56 sm:-right-7 duration-300 md:p-0 md:bg-[#fff0] md:flex md:flex-row lg:gap-10 md:gap-6 md:items-center md:static"
           :class="!isShow ? 'sm:hidden md:block' : 'md:block '"
         >
           <router-link

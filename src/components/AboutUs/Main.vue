@@ -17,7 +17,7 @@
         </p>
       </div>
       <div class=" ">
-        <img src="/public/img/image2.png" alt="img" />
+        <img src="/img/image2.png" alt="img" />
       </div>
     </main>
   </div>

@@ -1,10 +1,10 @@
 <template>
   <div class="bg-[#F4F6FC] py-16">
     <div class="md:container">
-      <!-- <div class="flex flex-col items-center  my-14">
+      <div class="flex flex-col items-center  my-14">
         <p class="font-semibold text-darlBlue text-base text-center py-4">Features</p>
         <h1 class="font-semibold text-darlBlue text-5xl w-[50%] text-center" >Design that solves problems, one product at a time</h1>
-      </div> -->
+      </div>
 
       <div
         class="grid lg:grid-cols-3 md:grid-cols-2 gap-2 justify-center md:flex-wrap sm:flex-wrap"
